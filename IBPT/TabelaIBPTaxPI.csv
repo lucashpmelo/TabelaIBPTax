@@ -161,7 +161,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03023200;;0;"Albacoras/atuns barbat.amarela,frescas/ refrig. exc.files";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03023300;;0;"Bonitos-listrados,etc.frescos,refrig.exc. files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03023400;;0;"Albacoras-bandolim (patutos) thunnus thinnus";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03023500;;0;"Atuns azuis (thunnus thinnus (…)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03023500;;0;"Atuns azuis (thunnus thinnus (ï¿½)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03023600;;0;"Atuns do sul thunnus maccoyii";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03023900;;0;"Outs.atuns frescos,refrig.exc.files, outs. carnes,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03024100;;0;"Arenques frescos/refrigerados,exc. files,outs.carnes,etc";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -174,12 +174,12 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03024700;;0;"Espadartes frescos/refrigerados,exc. files,outs.carnes,etc";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03024910;;0;"Espadins, marlins, veleiros (istiophoridae)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03024990;;0;"Outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03025100;;0;"Bacalhau do atlantico (...), bacalhau da groelandia (…) e bacalhau do pacifico (...), frescos/refrigerados, exc.files,etc.";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03025100;;0;"Bacalhau do atlantico (...), bacalhau da groelandia (ï¿½) e bacalhau do pacifico (...), frescos/refrigerados, exc.files,etc.";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03025200;;0;"Bacalhau haddoch ou lubina, frescos/refrigerados, exc.files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03025300;;0;"Bacalhau saithe frescos/refrigerados, exc.files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03025400;;0;"Merluzas e abroteas, frescos/refrigerados, exc.files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03025500;;0;"Merluza do alasca, frescos/refrigerados, exc.files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03025600;;0;"Verdinhos (…), frescos/refrigerados, exc.files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03025600;;0;"Verdinhos (ï¿½), frescos/refrigerados, exc.files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03025900;;0;"Outros peixes das fam. bregmacerotidae, gadidae, etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03027100;;0;"Tilapias frescas,refrig.exc.files,outs. carnes,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03027210;;0;"Bagres (...),frescas,refrig.exc.files,outs. carnes,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -240,7 +240,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03034600;;0;"Atuns do sul congelados,exc.files, outs. carnes,figados,etc";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03034900;;0;"Outs.atuns congelados,exc.files,outs. carnes, figados,etc";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03035100;;0;"Arenques congelados,exc.files,outs. carnes, figados,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03035300;;0;"Sardinhas, (…) anchovetas, congeladas, exc.files,etc.";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03035300;;0;"Sardinhas, (ï¿½) anchovetas, congeladas, exc.files,etc.";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03035400;;0;"Cavalinhas,congeladas, exc. files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03035500;;0;"Chicharros,congeladas, exc. files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03035600;;0;"Bijupiras,congeladas, exc. files,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -346,12 +346,12 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03048930;;0;"Garoupas, files, congelados.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03048990;;0;"Files de outros peixes, congelados.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03049100;;0;"Outros carnes de espadartes,congeladas";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03049211;;0;"Outros carnes de merluzas negras, congeladas – bochechas (cheeks)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03049212;;0;"Outros carnes de merluzas negras, congeladas – colares (collars)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03049219;;0;"Outros carnes de merluzas negras,congeladas – outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03049221;;0;"Outros carnes de merluzas do antartico ,congeladas – bochechas (cheeks)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03049222;;0;"Outros carnes de merluzas do antartico,congeladas – colares (collars)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03049229;;0;"Outros carnes de merluzas doantartico,congeladas – outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03049211;;0;"Outros carnes de merluzas negras, congeladas ï¿½ bochechas (cheeks)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03049212;;0;"Outros carnes de merluzas negras, congeladas ï¿½ colares (collars)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03049219;;0;"Outros carnes de merluzas negras,congeladas ï¿½ outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03049221;;0;"Outros carnes de merluzas do antartico ,congeladas ï¿½ bochechas (cheeks)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03049222;;0;"Outros carnes de merluzas do antartico,congeladas ï¿½ colares (collars)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03049229;;0;"Outros carnes de merluzas doantartico,congeladas ï¿½ outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03049300;;0;"Outros carnes de tilapias,congeladas";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03049400;;0;"Outros carnes de merluza do alasca,congeladas";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03049500;;0;"Outros carnes de peixes da familia das bregmacerotidae (...), congeladas";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -361,7 +361,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03052010;;0;"Peixes e crustaceos moluscos e outros invertebrados aquaticos Peixes secos salgados ou em salmoura peixes defumados fumados mesmo cozidos antes ou durante a defumacao ovas de tainhas Mugil spp ";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03052090;;0;"Peixes e crustaceos moluscos e outros invertebrados aquaticos Peixes secos salgados ou em salmoura peixes defumados fumados mesmo cozidos antes ou durante a defumacao outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03053100;;0;"Tilapias (...),secos, salgados/ salmoura, n/defum";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03053210;;0;"Bacalhaus do atlantico, bacalhau da groelandia (…), secos, salgados/ salmoura, n/defum";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03053210;;0;"Bacalhaus do atlantico, bacalhau da groelandia (ï¿½), secos, salgados/ salmoura, n/defum";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03053220;;0;"Saithes(polachius virens), secos, salgados/ salmoura, n/defum";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03053230;;0;"Ling (molva molva) e zarbo (brosme brosme)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03053290;;0;"Outros peixes da familia das bregmacerotidae (...), secos, salgados/ salmoura,n/defum";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -382,7 +382,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03056100;;0;"Arenques salgados,nao secos,nao defumados e em salmoura";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03056200;;0;"Bacalhaus (gadus) salgados,n/secos, n/defumados,salmoura";15.32;17.32;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03056300;;0;"Anchovas salgadas,nao secas,nao defumadas e em salmoura";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03056400;;0;"Tilapias, bagres, carpas (…) salgados n/secos, n/defum e em salmoura";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03056400;;0;"Tilapias, bagres, carpas (ï¿½) salgados n/secos, n/defum e em salmoura";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03056910;;0;"Saithes(polachius virens),lings e zarbos(brosme brosme)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03056990;;0;"Outros peixes salgados n/secos, n/defum e em salmoura";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03057100;;0;"Barbatanas de tubarao";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -454,7 +454,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 03082100;;0;"Ouricos-do-mar, vivos, frescos ou refrigerados";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03082200;;0;"Congelados";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03082900;;0;"Ouricos do mar,congelados,secos,etc.";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-03083000;;0;"Medusas (aguas vivas) (…)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+03083000;;0;"Medusas (aguas vivas) (ï¿½)";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03089000;;0;"Outros inveetebrados aquaticos, exceto crustaceos e moluscos";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03091000;;0;"Peixes e crustaceos moluscos e outros invertebrados aquaticos Farinhas pos e pellets de peixe crustaceos moluscos e de outros invertebrados aquaticos proprios para alimentacao humana De peixe";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 03099000;;0;"Peixes e crustaceos moluscos e outros invertebrados aquaticos Farinhas pos e pellets de peixe crustaceos moluscos e de outros invertebrados aquaticos proprios para alimentacao humana outros";13.45;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -1139,7 +1139,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 16055300;;0;"Prepars.e conservas,de mexilhoes";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 16055400;;0;"Prepars.e conservas,de sepias e lulas";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 16055500;;0;"Prepars.e conservas,de polvos";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-16055600;;0;"Prepars.e conservas,de ameijoas, berbigoes (…)";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+16055600;;0;"Prepars.e conservas,de ameijoas, berbigoes (ï¿½)";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 16055700;;0;"Prepars.e conservas,de abalones";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 16055800;;0;"Prepars.e conservas,de caracois, exceto do mar";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 16055900;;0;"Prepars.e conservas,de outros moluscos";13.45;22.18;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -1277,7 +1277,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 20088000;;0;"Morangos preparados ou conservados";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 20088000;01;0;"Morangos, cozidos exceto em agua e vapor , congelados e sem adicao de acucar ou de outros edulcorantes";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 20089100;;0;"Palmitos preparados ou conservados";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-20089300;;0;"Airelas vermelhas (…) prepars/ conservs. out. modo";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+20089300;;0;"Airelas vermelhas (ï¿½) prepars/ conservs. out. modo";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 20089300;01;0;"Airelas vermelhas Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea, cozidas exceto em agua e vapor , congeladas e sem adicao de acucar ou de outros edulcorantes";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 20089710;;0;"Misturas de frutas preparadas,conservs.em agua edulcora, inclusive xaropes";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 20089790;;0;"Misturas de frutas preparadas,conservadas de out.modo";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -1647,7 +1647,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 27101260;;0;"Mistura de hidrocarbonetos aciclicos e ciclicos, saturados, derivados de fracoes de petroleo, contendo em peso, menos de 2%, de hidrocarbonetos aromaticos, cuja curva de destilacao, segundo o metodo astm d 86, apresenta um ponto inicial minimo de 70oc e u";16.38;18.38;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101290;;0;"Outs.oleos de leves e preparacoes";16.38;18.38;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101290;01;0;"Oleos parcialmente refinados";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-27101290;02;0;"Oleos para lamparina de mecha “signal-oil” ";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+27101290;02;0;"Oleos para lamparina de mecha ï¿½signal-oilï¿½ ";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101911;;0;"Querosenes de aviacao";0.00;0.00;8.33;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101919;;0;"Outros querosenes - iso-parafina, normal parafina";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101921;;0;"Gasoleo (oleo diesel)";0.00;0.00;18.30;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -1661,9 +1661,9 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 27101994;;0;"Mistura de hidrocarbonetos aciclicos e ciclicos, saturados, derivados de fracoes de petroleo, contendo, em peso, menos de 2%, de hidrocarbonetos aromaticos, que destila, segundo o metodo astm d 86, uma fracao inferior a 90%, em volume, a 210oc com um pon";16.38;18.38;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101999;;0;"Outs.oleos de petroleo,minerais betuminosos e prepars.";16.38;18.38;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27101999;01;0;"Oleos parcialmente refinados";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-27101999;02;0;"Oleos para lamparina de mecha “signal-oil” ";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+27101999;02;0;"Oleos para lamparina de mecha ï¿½signal-oilï¿½ ";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27102000;;0;"Oleos de petroleo ou de minerais betuminosos (exceto oleos brutos) e preparacoes nao especificadas nem compreendidas noutras posicoes, que contenham, como constituintes basicos, 70 % ou mais, em peso, de oleos de petroleo ou de minerais betuminosos, que contenham biodiesel, exceto os residuos de oleos";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-27102000;01;0;"Oleos leves e preparacoes, exceto oleos para lamparina de mecha “signal-oil” ";16.91;18.91;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+27102000;01;0;"Oleos leves e preparacoes, exceto oleos para lamparina de mecha ï¿½signal-oilï¿½ ";16.91;18.91;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27109100;;0;"Desperdicios de oleos contendo difenilas,etc.";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27109900;;0;"Outros desperdicios de oleos";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 27111100;;0;"Gas natural,liquefeito";13.45;15.45;1.26;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -4347,7 +4347,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 34011190;;0;"Outs.prods/prepars.de toucador,em barras, pedacos,etc.";15.32;24.79;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 34011190;01;0;"Sabao";13.45;22.92;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 34011900;;0;"Outs.saboes/produtos/preparacoes,em barras,pedacos,etc.";15.32;24.79;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-34011900;01;0;"Papel, pastas “ouates” , feltros e falsos tecidos, impregnados, revestidos ou recobertos de sabao ou de detergentes";17.07;26.54;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+34011900;01;0;"Papel, pastas ï¿½ouatesï¿½ , feltros e falsos tecidos, impregnados, revestidos ou recobertos de sabao ou de detergentes";17.07;26.54;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 34011900;02;0;"Produtos e preparacoes organicos tensoativos utilizados como sabao";17.07;26.54;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 34011900;03;0;"Sabao";13.45;22.92;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 34012010;;0;"Saboes de toucador,sob outs.formas";15.32;24.79;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -5157,8 +5157,8 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 39269040;;0;"Artigos de laboratorio ou de farmacia,de plasticos";17.03;26.41;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 39269040;01;0;"Exclusivamente de laboratorio de analises clinicas";13.45;22.83;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 39269050;;0;"Acessorios dos tipo utilizados em linhas de sangue para hemodialise, tais omo obturadores, clipes e semelhantes";18.78;20.78;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-39269061;;0;"Aneis de secao transversal circular (“o-rings”) de tetrafluoroetileno e eter perfluorometilvinil";18.78;20.78;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-39269069;;0;"Aneis de secao transversal circular (“o-rings”). outras";18.78;28.33;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+39269061;;0;"Aneis de secao transversal circular (ï¿½o-ringsï¿½) de tetrafluoroetileno e eter perfluorometilvinil";18.78;20.78;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+39269069;;0;"Aneis de secao transversal circular (ï¿½o-ringsï¿½). outras";18.78;28.33;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 39269090;;0;"Outros obras de plasticos";18.66;29.60;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 39269090;01;0;"Forma para fabricacao de calcados";13.45;24.39;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 39269090;02;0;"Mascara de protecao";13.45;24.39;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -5416,7 +5416,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 43022000;02;0;"Cabecas, caudas, patas e outras partes, desperdicios e aparas, de bovino, de ovino ou de caprino";17.07;25.05;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 43023000;;0;"Peleteria curtida/acabada,inteira/pedacos, etc.reunidos";30.10;38.08;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 43023000;01;0;"De bovino, ovino, caprino, coelho ou de lebre";17.07;25.05;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-43023000;02;0;"Peles “alongadas”, exceto de bovino, ovino, caprino, coelho ou de lebre";25.69;33.67;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+43023000;02;0;"Peles ï¿½alongadasï¿½, exceto de bovino, ovino, caprino, coelho ou de lebre";25.69;33.67;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 43031000;;0;"Vestuario e seus acessorios,de peleteria";25.69;35.87;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 43031000;01;0;"De bovino, ovino, caprino, coelho ou de lebre";17.07;27.25;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 43039000;;0;"Outros artefatos de peleteria";25.69;35.87;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -5530,8 +5530,8 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 44101121;;0;"Paineis de particulas de madeira, recobertos na superficie com papel impregnado de melamina em ambas as faces, com pelicula protetora na face superior e trabalho de encaixe nas quatro laterais, dos tipos utilizados para pavimentos";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44101129;;0;"Outros paineis de particulas de madeira, recobertos na superficie com papel impregnado de melamina";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44101190;;0;"Outros paineis de madeira";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-44101210;;0;"Paineis de madeira denominados denominados “oriented strand board” (osb), em bruto ou polidos";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-44101290;;0;"Outros paineis de madeira denominados denominados “oriented strand board” (osb)";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+44101210;;0;"Paineis de madeira denominados denominados ï¿½oriented strand boardï¿½ (osb), em bruto ou polidos";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+44101290;;0;"Outros paineis de madeira denominados denominados ï¿½oriented strand boardï¿½ (osb)";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44101911;;0;"Paineis de madeira denominados waferboard, em bruto ou polidos";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44101919;;0;"Outs paineis de madeira denominados waferboard";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44101991;;0;"Outros paineis de madeira, em bruto ou simplesmente polidos";15.32;21.72;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -5581,7 +5581,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 44182900;;0;"Madeira carvao vegetal e obras de madeira obras de marcenaria e pecas de carpintaria para construcoes incluindo os paineis celulares os paineis montados para revestimento de pisos pavimentos e as fasquias para telhados shingles e shakes de madeira outras";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44183000;;0;"Madeira carvao vegetal e obras de madeira obras de marcenaria e pecas de carpintaria para construcoes incluindo os paineis celulares os paineis montados para revestimento de pisos pavimentos e as fasquias para telhados shingles e shakes de madeira Postes";15.32;23.30;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44184000;;0;"Armacoes de madeira,para concreto";15.32;23.30;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-44185000;;0;"Fasquias de madeira,para telhados (“shingles” e “shakes”)";15.32;23.30;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+44185000;;0;"Fasquias de madeira,para telhados (ï¿½shinglesï¿½ e ï¿½shakesï¿½)";15.32;23.30;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44187300;;0;"De bambu ou com, pelo menos, a camada superior de bambu";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44187400;;0;"Outros, para pisos (pavimentos) em mosaico";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 44187500;;0;"Outros, de camadas multiplas";13.45;21.43;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -6349,7 +6349,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 55169200;;0;"Outros tecidos de fibras artificiais,tintos";13.45;27.69;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 55169300;;0;"Outs.tecidos de fibras artificiais,de fios divs.cores";13.45;27.69;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 55169400;;0;"Outros tecidos de fibras artificiais,estampados";13.45;27.69;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-56012110;;0;"Pastas (“ouates”) de materias texteis e artigos destas pastas (ouates), fibras texteis de comprimento nao superior a 5mm (“tontisses”), nos e bolotas de materias texteis.";13.45;22.92;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+56012110;;0;"Pastas (ï¿½ouatesï¿½) de materias texteis e artigos destas pastas (ouates), fibras texteis de comprimento nao superior a 5mm (ï¿½tontissesï¿½), nos e bolotas de materias texteis.";13.45;22.92;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 56012190;;0;"Outros artigos de pastas (ouates) de algodao";13.45;22.83;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 56012211;;0;"Pastas (ouates) de fibras de aramida";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 56012219;;0;"Pastas (ouates) de outs.fibras sinteticas/artificiais";13.45;23.00;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -7734,7 +7734,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 74094010;;0;"Chapas e tiras de ligas cobre-niquel,etc, e>0.15mm,rolos";15.32;22.52;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 74094090;;0;"Outs.chapas e tiras,de ligas de cobre-niquel, esp>0.15mm";15.32;22.52;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 74099000;;0;"Chapas e tiras,de outs.ligas de cobre,esp>0.15mm";15.32;22.52;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-74101112;;0;"Folha de cobre ref.s/suport.de espessura inferior ou igual a 0,04mm e uma resistividade eletrica inferior ou igual a 0,017241ohm.mm²/m";15.32;17.32;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+74101112;;0;"Folha de cobre ref.s/suport.de espessura inferior ou igual a 0,04mm e uma resistividade eletrica inferior ou igual a 0,017241ohm.mmï¿½/m";15.32;17.32;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 74101113;;0;"Outras folha de cobre ref.s/suport.outras, de espessura inferior ou igual a 0,04mm";15.32;22.52;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 74101119;;0;"Outras folha de cobre ref.s/suport.e<=0.07mm, pureza>=99.85%";15.32;22.52;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 74101190;;0;"Outs.folhas/tiras,de cobre refin.s/suporte, e<=0.15mm";15.32;22.52;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -8308,7 +8308,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 84186999;01;0;"Maquinas para producao de gelo em embarcacoes pesqueiras";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84186999;02;0;"Grupos de compressao, exceto para ar condicionado, ou de absorcao";15.34;23.38;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84186999;03;0;"Maquinas para producao de gelo em cubos ou escamas";15.34;23.38;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84186999;04;0;"Instalacoes frigorificas industriais, formadas por elementos nao reunidos em corpo unico nem montados sobre base comum, com camara frigorifica de capacidade superior a 30m³";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84186999;04;0;"Instalacoes frigorificas industriais, formadas por elementos nao reunidos em corpo unico nem montados sobre base comum, com camara frigorifica de capacidade superior a 30mï¿½";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84186999;05;0;" Proprios para conservacao de sangue humano funcionando com temperatura estavel entre 2 c e 6 c";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84189100;;0;"Gabinetes/moveis p/receber equipamento p/prod.de frio";18.78;27.59;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84189900;;0;"Outros partes de refrigeradores, congeladores,etc.";18.78;26.82;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -8423,7 +8423,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 84248221;;0;"Por aspersao";13.45;21.49;5.60;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84248229;;0;"Outros";13.45;21.49;5.60;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84248290;;0;"Outros";13.45;21.49;5.60;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84248910;;0;"Aparelhos de pulverizacao constituidos por botao de pressao com bocal (tampa “spray”), valvula do tipo aerossol, junta de estanqueidade (junta de canopla) e tubo de imersao, montados sobre um corpo metalico (canopla), dos tipos utilizados para serem monta";15.34;24.15;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84248910;;0;"Aparelhos de pulverizacao constituidos por botao de pressao com bocal (tampa ï¿½sprayï¿½), valvula do tipo aerossol, junta de estanqueidade (junta de canopla) e tubo de imersao, montados sobre um corpo metalico (canopla), dos tipos utilizados para serem monta";15.34;24.15;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84248920;;0;"Aparelhos automaticos para projetar lubrificantes sobre pneumaticos, contendo uma estacao de secagem por ar pre-aquecido e dispositivos para agarrar e movimentar os pneumaticos";15.34;17.34;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84248990;;0;"Outs.apars.mecanicos,p/projetar,etc.liquidos ou pos";15.34;23.38;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84249010;;0;"Partes de extintores/apars.p/pulverizar, etc. manuais";15.34;23.38;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -8638,8 +8638,8 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 84433111;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (de jato de tinta liquida, com largura de impressao inferior ou igual a 420mm)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433112;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (de transferencia termica de cera solida (por exemplo, solid ink e dye sublimation)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433113;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (a laser, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao inferior ou igual a 280mm)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84433114;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (a “laser”, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao superior a 280mm e inferior ou igual a 420mm)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84433115;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (a “laser”, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), policromaticas)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84433114;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (a ï¿½laserï¿½, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao superior a 280mm e inferior ou igual a 420mm)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84433115;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (a ï¿½laserï¿½, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), policromaticas)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433116;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (outras, com largura de impressao superior a 420mm)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433119;;0;"Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (outras)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433191;;0;"Outras maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (com impressao por sistema termico)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -8650,9 +8650,9 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 84433229;;0;"Outros impressoras de impacto";18.78;27.59;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433231;;0;"Impressoras c/vi<30ppm,a jato de tinta liq.li<=420mm";18.78;27.59;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433232;;0;"De transferencia termica de cera solida (solid ink e dye sublimation, por exemplo)";21.28;23.28;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84433233;;0;"A “laser”, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao inferior ou igual a 280mm";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84433234;;0;"A “laser”, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao superior a 280mm e inferior ou igual a 420mm";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84433235;;0;"A “laser”, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), policromaticas, com velocidade de impressao inferior ou igual a 20 paginas por minuto (ppm)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84433233;;0;"A ï¿½laserï¿½, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao inferior ou igual a 280mm";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84433234;;0;"A ï¿½laserï¿½, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), monocromaticas, com largura de impressao superior a 280mm e inferior ou igual a 420mm";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84433235;;0;"A ï¿½laserï¿½, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), policromaticas, com velocidade de impressao inferior ou igual a 20 paginas por minuto (ppm)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433236;;0;"A laser, led (diodos emissores de luz) ou lcs (sistema de cristal liquido), policromaticas, com velocidade de impressao superior a 20 paginas por minuto (ppm)";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433237;;0;"Termicas, dos tipos utilizados em impressao de imagens para diagnostico medico em folhas revestidas com camada termossensivel";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84433238;;0;"Outras, com largura de impressao superior a 420mm";18.78;20.78;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9048,7 +9048,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 84715090;;0;"Outs.unid.proc.digit.com unid.memo e/ou 1 unid.e/s";21.28;30.09;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84716052;;0;"Teclados p/maqs.automat.proc.dados";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84716052;01;0;"Com colmeia";13.45;20.71;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84716053;;0;"Indicadores ou apontadores (“mouse” e “track-ball”, por exemplo)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84716053;;0;"Indicadores ou apontadores (ï¿½mouseï¿½ e ï¿½track-ballï¿½, por exemplo)";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84716053;01;0;"Indicador ou apontador mouse com entrada para acionador";13.45;20.71;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84716053;02;0;"Acionador de pressao";13.45;20.71;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84716054;;0;"Mesas digitalizadoras,p/maqs.automat. proc.dados";18.78;26.04;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9263,7 +9263,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 84862000;;0;"Maquinas e aparelhos para fabricacao de dispositivos semicondutores ou de circuitos integrados eletronicos";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84863000;;0;"Maquinas e aparelhos para fabricacao de dispositivos de visualizacao de tela plana";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84864000;;0;"Maquinas e aparelhos especificados na nota 9 c) do presente capitulo";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-84869000;;0;"Partes e acess.p/maquinas e aparelhos dos tipos utilizados exclusiva ou principalmente na fabricacao de esferas “(boules”) ou de plaquetas (“wafers”), de dispositivos semicondutores, de circuitos integrados eletronicos ou de dispositivos de visualizacao";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+84869000;;0;"Partes e acess.p/maquinas e aparelhos dos tipos utilizados exclusiva ou principalmente na fabricacao de esferas ï¿½(boulesï¿½) ou de plaquetas (ï¿½wafersï¿½), de dispositivos semicondutores, de circuitos integrados eletronicos ou de dispositivos de visualizacao";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84871000;;0;"Helices p/embarcacoes e suas pas";17.11;25.15;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 84879000;;0;"Outras partes de maquinas ou de aparelhos, nao especificadas nem compreendidas em outras posicoes do presente capitulo, que nao contenham conexoes eletricas, partes isoladas eletricamente, bobinas, contactos nem quaisquer outros elementos com caracteristi";17.11;25.15;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85011011;;0;"Motor eletr.de corrente continua, pot<=37.5w, passo<=1.8g";15.34;17.34;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9331,7 +9331,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85043191;;0;"Transformador eletr.pot<=1kva,saida horiz.t>18kv,etc.";15.34;17.34;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85043192;;0;"Transformador eletr.pot<=1kva,de fi,deteccao, foco,etc.";20.35;29.90;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85043199;;0;"Outros transformadores eletr.pot<=1kva";17.11;26.66;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85043199;01;0;"Transformadores de deflexao “yokes” , para tubos de raios catodicos";20.35;29.90;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85043199;01;0;"Transformadores de deflexao ï¿½yokesï¿½ , para tubos de raios catodicos";20.35;29.90;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85043211;;0;"Transformador eletr.1kva<pot<=3kva, p/freq<=60hz";13.45;23.00;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85043219;;0;"Outros transformadores eletr.1kva<pot<=3kva";13.45;23.00;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85043221;;0;"Transformador eletr.3kva<pot<=16kva, p/freq<=60hz";13.45;23.00;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9469,7 +9469,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85151900;;0;"Outros maqs.e apars.p/soldadura forte ou fraca";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85152100;;0;"Maqs.e apars.p/soldar metais,de resistencia, automaticas";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85152900;;0;"Outros maqs.e apars.p/soldar metais,de resistencia";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85153110;;0;"Robos para soldar, por arco, em atmosfera inerte (mig -“metal inert gas”) ou atmosfera ativa (mag -“metal active gas”), de comando numerico";13.45;15.45;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85153110;;0;"Robos para soldar, por arco, em atmosfera inerte (mig -ï¿½metal inert gasï¿½) ou atmosfera ativa (mag -ï¿½metal active gasï¿½), de comando numerico";13.45;15.45;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85153190;;0;"Outs.maqs.apars.soldar metais,de arco/jato plasma,autom";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85153900;;0;"Outs.maqs.e apars.p/soldar metais,de arco/jato plasma";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85158010;;0;"Maqs.e apars.p/soldar a laser";13.45;15.45;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9542,7 +9542,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85176278;;0;"Outros aparelhos emissores com receptor incorporado, digitais de frequencia superior ou igual a 15ghz, mas inferior ou igual a 23ghz e taxa de transmissao inferior ou igual a 8mbit/s";18.78;27.59;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85176279;;0;"Outros aparelhos emissores com receptor incorporado, digitais";21.28;28.54;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85176291;;0;"Aparelhos transmissores (emissores)";18.78;26.04;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85176294;;0;"Tradutores (conversores) de protocolos para interconexao de redes (“gateways”)";18.78;29.06;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85176294;;0;"Tradutores (conversores) de protocolos para interconexao de redes (ï¿½gatewaysï¿½)";18.78;29.06;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85176296;;0;"Outs.apars.transmiss.recept.analog.p/radiotelef.etc.";18.78;26.04;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85176299;;0;"Outs.aparelhos de recepcao, conversao e transmissao ou regeneracao de voz, imagens ou outros dados";20.35;30.63;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85176299;01;0;"Receptores pessoais de radiomensagens";18.78;29.06;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9620,7 +9620,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85256020;;0;"Apars.transm/recep.de televisao, frequencia>7ghz";18.78;20.78;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85256020;01;0;"Transmissores-receptores transceptores de sinal de televisao digital atraves de fibra otica";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85256090;;0;"Outros apars.transmiss.recept.de televisao";18.78;26.04;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85256090;01;0;"Equipamento de sinalizacao, controle e/ou corte “slicer” do fluxo de dados MPeG";13.45;20.71;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85256090;01;0;"Equipamento de sinalizacao, controle e/ou corte ï¿½slicerï¿½ do fluxo de dados MPeG";13.45;20.71;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85256090;02;0;" Transmissores receptores transceptores de radio digital para televisao digital terrestre com interfaces digitais DVB aSi e ou iSDB T clock data";13.45;20.71;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85258100;;0;"Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios aparelhos transmissores emissores para radiodifusao ou ";21.28;23.28;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85258200;;0;"Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios aparelhos transmissores emissores para radiodifusao ou";21.28;23.28;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9654,7 +9654,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85285200;;0;"Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Monitores e projetores que nao incorporem aparelho rece";21.28;28.54;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85285900;;0;"Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Monitores e projetores que nao incorporem aparelho rece";20.35;32.35;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85286200;;0;"Capazes de serem conectados diretamente a uma maquina automatica para processamento de dados da posicao 8471 e concebidos para serem utilizados com esta maquina";21.28;30.09;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85286910;;0;"Outros projetores de video com tecnologia de dispositivo digital de microespelhos (“digital micromirror device” - dmd)";20.35;22.35;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85286910;;0;"Outros projetores de video com tecnologia de dispositivo digital de microespelhos (ï¿½digital micromirror deviceï¿½ - dmd)";20.35;22.35;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85286990;;0;"Outros projetores de video";20.35;32.35;12.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85287111;;0;"Receptor-decodif.integr.sinais digit.video codif.cores, sem saida de radiofrequencia (rf( modulada (...) c/ saida de audio balanceada (...)";15.34;17.34;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85287119;;0;"Outros (receptor-decodif.integr.sinais digit.video codif.cores)";15.62;25.90;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9793,9 +9793,9 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85392200;;0;"Outros lampadas/tubos incandesc. pot<=200w,t>100v";17.00;24.03;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85392200;01;0;"Lampadas incandescentes, de tensao superior a 100V";18.05;25.08;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85392910;;0;"Outros lampadas/tubos incandesc.t<=15v";17.00;25.10;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85392910;01;0;"Para iluminacao e projecao, de temperatura de cor superior a 3.000°K, exclusivamente para cinematografia, cinema e atividades semelhantes, em qualquer base";13.45;21.55;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85392910;01;0;"Para iluminacao e projecao, de temperatura de cor superior a 3.000ï¿½K, exclusivamente para cinematografia, cinema e atividades semelhantes, em qualquer base";13.45;21.55;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85392990;;0;"Outros lampadas/tubos incandesc.";17.00;25.10;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85392990;01;0;"Para iluminacao e projecao, de temperatura de cor superior a 3.000°K, exclusivamente para cinematografia, cinema e atividades semelhantes, em qualquer base";13.45;21.55;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85392990;01;0;"Para iluminacao e projecao, de temperatura de cor superior a 3.000ï¿½K, exclusivamente para cinematografia, cinema e atividades semelhantes, em qualquer base";13.45;21.55;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85392990;02;0;"Lampadas incandescentes, de tensao superior a 100V";18.05;26.15;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85393111;;0;"Que contenham mais de 5 mg de mercurio por cada involucro (tubo)";17.00;24.03;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85393111;01;0;"Ex 01 - De descarga em baixa pressao, de base unica, com ou sem reator eletronico incorporado, com eficiencia superior a 40 lumens/W (lampada fluorescente compacta)";13.45;20.48;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9911,7 +9911,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85429000;;0;"Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios circuitos integrados eletronicos Partes";14.22;16.22;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85431000;;0;"Aceleradores de particulas,eletr.";17.11;19.11;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85432000;;0;"Geradores de sinais,eletr.";15.34;23.38;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85432000;01;0;"Geradores de sinais de teste e referencia de video nos padroes SDi e HD-SDi, com capacidade de geracao de diferentes sinais de teste, dentre eles o “color bars” e “zoneplate”";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85432000;01;0;"Geradores de sinais de teste e referencia de video nos padroes SDi e HD-SDi, com capacidade de geracao de diferentes sinais de teste, dentre eles o ï¿½color barsï¿½ e ï¿½zoneplateï¿½";13.45;21.49;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85433010;;0;"De eletrolise, com celulas de membrana";13.45;15.45;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85433090;;0;"Outros";13.45;21.49;8.80;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85434000;;0;"Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Maquinas e aparelhos eletricos com funcao propria nao e";17.11;24.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -9934,7 +9934,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 85437034;;0;"Controladores de edicao,p/video";17.11;19.11;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85437035;;0;"Misturador digital,em tempo real de entrada>=8,p/video";17.11;19.11;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85437036;;0;"Roteador-comutador (routing switcher) de mais de 20 entradas e mais de 16 saidas, de audio ou de video";17.11;19.11;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-85437036;01;0;"Roteadores-comutadores “trouting switcher” , contendo mais de 20 entradas e mais de 16 saidas de audio e/ou video, com interface de entrada de video SDi e HD-SDi e saidas em SDi e HD-SDi, entradas de audio analogico e/ou digital ou capacidade par";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+85437036;01;0;"Roteadores-comutadores ï¿½trouting switcherï¿½ , contendo mais de 20 entradas e mais de 16 saidas de audio e/ou video, com interface de entrada de video SDi e HD-SDi e saidas em SDi e HD-SDi, entradas de audio analogico e/ou digital ou capacidade par";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85437039;;0;"Outros maqs.e apars.auxiliares,p/video";17.11;24.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85437039;01;0;" Gravador reprodutor e editor de imagem e som em discos por meio magnetico optico ou optomagnetico";15.34;22.60;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 85437039;02;0;"Aparelho de gravacao ou reproducao e edicao de imagem e som de televisao em disco rigido por meio magnetico optico ou optomagnetico";13.45;20.71;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10055,8 +10055,8 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 87019590;;0;"Outros";9.74;17.78;5.60;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87019590;01;0;"Outros";7.85;15.89;5.60;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87021000;;0;"Veiculos automoveis p/transp>=10 pessoas,c/motor diesel";16.24;28.24;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87021000;01;0;"Com volume interno de habitaculo, destinado a passageiros e motorista, superior a 6m³, mas inferior a 9m³";11.51;23.51;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87021000;02;0;"Com volume interno de habitaculo, destinado a passageiros e motorista, igual ou superior a 9m³";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87021000;01;0;"Com volume interno de habitaculo, destinado a passageiros e motorista, superior a 6mï¿½, mas inferior a 9mï¿½";11.51;23.51;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87021000;02;0;"Com volume interno de habitaculo, destinado a passageiros e motorista, igual ou superior a 9mï¿½";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87022000;;0;"Equipados para propulsao, simultaneamente, com um motor de pistao de ignicao por compressao (diesel ou semidiesel) e um motor eletrico";16.24;28.24;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87022000;01;0;"Equipados para propulsao, simultaneamente, com um motor de pistao de ignicao por compressao (diesel ou semidiesel) e um motor eletrico";11.51;23.51;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87022000;02;0;"Equipados para propulsao, simultaneamente, com um motor de pistao de ignicao por compressao (diesel ou semidiesel) e um motor eletrico";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10075,9 +10075,9 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 87032210;;0;"Automoveis c/motor explosao,1000<cm3<=1500, ate 6 passag";13.20;25.20;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87032290;;0;"Automoveis c/motor explosao,1000<cm3<=1500, sup.6 passag";13.20;25.20;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87032310;;0;"Automoveis c/motor explosao,1500<cm3<=3000, ate 6 passag";17.35;29.35;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87032310;01;0;"De cilindrada superior a 1.500 cm³, mas nao superior a 2.000 cm³";13.20;25.20;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87032310;01;0;"De cilindrada superior a 1.500 cmï¿½, mas nao superior a 2.000 cmï¿½";13.20;25.20;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87032390;;0;"Automoveis c/motor explosao,1500<cm3<=3000, sup.6 passag";17.35;29.35;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87032390;01;0;"De cilindrada superior a 1.500 cm³, mas nao superior a 2.000 cm³";13.20;25.20;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87032390;01;0;"De cilindrada superior a 1.500 cmï¿½, mas nao superior a 2.000 cmï¿½";13.20;25.20;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87032410;;0;"Automoveis c/motor explosao,cm3>3000,ate 6 passageiros";17.35;29.35;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87032490;;0;"Automoveis c/motor explosao,cm3>3000,sup.6 passageiros";17.35;29.35;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87033110;;0;"Automoveis c/motor diesel,cm3<=1500,ate 6 passageiros";17.35;29.35;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10095,13 +10095,13 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 87041010;;0;"Dumpers p/transp.mercadoria>=85t,util.fora de rodovias";7.85;9.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87041090;;0;"Outs.dumpers p/transp.mercadoria,util.fora de rodovias";7.85;15.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042110;;0;"Chassis c/motor diesel e cabina,p/carga<=5t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87042110;01;0;"De camionetas, furgoes, “pick-ups” e semelhantes";10.82;22.82;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87042110;01;0;"De camionetas, furgoes, ï¿½pick-upsï¿½ e semelhantes";10.82;22.82;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042120;;0;"Veic.automov.c/motor diesel/caixa bascul.p/carga<=5t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87042120;01;0;"De camionetas, furgoes, “pick-ups” e semelhantes";9.37;21.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87042120;01;0;"De camionetas, furgoes, ï¿½pick-upsï¿½ e semelhantes";9.37;21.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042130;;0;"Veic.automov.frigorif.etc.c/motor diesel,carga<=5t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87042130;01;0;"De camionetas, furgoes, “pick-ups” e semelhantes";9.37;21.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87042130;01;0;"De camionetas, furgoes, ï¿½pick-upsï¿½ e semelhantes";9.37;21.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042190;;0;"Outs.veiculos automoveis c/motor diesel,p/carga<=5t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87042190;01;0;"De camionetas, furgoes, “pick-ups” e semelhantes";10.82;22.82;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87042190;01;0;"De camionetas, furgoes, ï¿½pick-upsï¿½ e semelhantes";10.82;22.82;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042190;02;0;"Carro-forte para transporte de valores";11.51;23.51;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042210;;0;"Chassis c/motor diesel e cabina,5t<carga<=20t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042220;;0;"Veic.automov.c/motor diesel/caixa bascul.5t<carga<=20t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10112,7 +10112,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 87042330;;0;"Veic.automov.frigorif.etc.c/motor diesel,carga>20t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042340;;0;"Veiculos de chassis articulado, para o transporte de troncos (forwarder), com grua incorporada, de potencia maxima igual ou superior a 126 kW (170 HP)";9.74;17.78;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87042390;;0;"Outs.veiculos automoveis c/motor diesel,carga>20t";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87042390;01;0;"Veiculo automovel para transporte de toras de madeira, denominado comercialmente “trator florestal” e, tecnicamente, “forwarder”";9.74;21.74;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87042390;01;0;"Veiculo automovel para transporte de toras de madeira, denominado comercialmente ï¿½trator florestalï¿½ e, tecnicamente, ï¿½forwarderï¿½";9.74;21.74;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87043110;;0;"Chassis c/motor explosao e cabina,carga<=5t";11.51;23.51;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87043110;01;0;"De caminhao";7.85;19.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87043120;;0;"Veic.automov.c/motor explosao/caixa bascul.carga<=5t";9.37;21.37;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10202,10 +10202,10 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 87089482;;0;"Barras de direcao p/veiculos automoveis";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87089483;;0;"Caixas de direcao p/veiculos automoveis";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87089490;;0;"Pecas para volantes, barras e caixas de direcao p/veiculos automoveis";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87089510;;0;"Bolsas inflaveis de seguranca com sistema de insuflacao (“airbags)";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87089510;;0;"Bolsas inflaveis de seguranca com sistema de insuflacao (ï¿½airbags)";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87089521;;0;"Bolsas inflaveis para airbags";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87089522;;0;"Sistema de insuflacao";9.74;11.74;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-87089529;;0;"Outras partes para bolsas inflaveis de seguranca com sistema de insuflacao (“airbags)";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+87089529;;0;"Outras partes para bolsas inflaveis de seguranca com sistema de insuflacao (ï¿½airbags)";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87089910;;0;"Dispositivos para comando de acelerador, freio, embreagem, direcao ou caixa de marchas mesmo os de adaptacao dos preexistentes, do tipo dos utilizados por pessoas incapacitadas";7.85;9.85;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87089990;;0;"Outs.partes e acess.p/tratores e veiculos automoveis";9.74;20.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 87091100;;0;"Veiculos automov.eletr.s/disp.elev.util.em fabricas,etc";7.85;15.89;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10372,7 +10372,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 90065959;01;0;"Outras";13.45;23.00;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90066100;;0;"Apars.de tubo de descarga,p/producao de luz-relampago";18.78;28.33;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90066900;;0;"Outros apars.e dispositivos p/fotografia";18.78;28.33;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-90066900;01;0;"Lampadas de luz relampago “flash” ";17.11;26.66;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+90066900;01;0;"Lampadas de luz relampago ï¿½flashï¿½ ";17.11;26.66;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90069110;;0;"Corpos p/ camaras fotograficas";18.78;27.59;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90069190;;0;"Outros partes e acess.p/camaras fotograficas";18.78;27.59;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90069900;;0;"Outs.partes e acess.p/apars.e dispositivos p/fotografia";18.78;27.59;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -10498,7 +10498,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 90189093;;0;"Apars.p/terapia intra-uretral p/microondas, computadoriz";16.42;18.42;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90189094;;0;"Endocoscopios";16.42;18.42;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90189095;;0;"Grampos,clipes,aplicador,extrator p/apars.medicina,etc.";13.45;15.45;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-90189096;;0;"Desfibriladores externos que operem unicamente em modo automatico (“aed – automatic external defibrillator”)";16.42;18.42;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+90189096;;0;"Desfibriladores externos que operem unicamente em modo automatico (ï¿½aed ï¿½ automatic external defibrillatorï¿½)";16.42;18.42;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90189099;;0;"Outs.instrumentos e apars.p/medicina,cirurgia,etc.";16.35;25.00;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90189099;01;0;"Conjunto descartavel de circulacao assistida e conjunto descartavel de balao intra-aortico";13.45;22.10;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 90189099;02;0;"Maquinas cicladoras para dialise peritoneal e seus acessorios";13.45;22.10;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11028,7 +11028,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 97029000;;0;"Objetos de arte de colecao e antiguidades Gravuras estampas e litografias originais outras";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 97031000;;0;"Objetos de arte de colecao e antiguidades Producoes originais de arte estatuaria ou de escultura de quaisquer materias com mais de 100 anos";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 97039000;;0;"Objetos de arte de colecao e antiguidades Producoes originais de arte estatuaria ou de escultura de quaisquer materias outras";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-97040000;;0;"Selos postais, selos fiscais, marcas postais, envelopes de primeiro dia (f.d.c. – “first-day cover”), inteiros postais e semelhantes, obliterados, ou nao obliterados, exceto os artigos da posicao 49.07.";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+97040000;;0;"Selos postais, selos fiscais, marcas postais, envelopes de primeiro dia (f.d.c. ï¿½ ï¿½first-day coverï¿½), inteiros postais e semelhantes, obliterados, ou nao obliterados, exceto os artigos da posicao 49.07.";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 97051000;;0;"Objetos de arte de colecao e antiguidades colecoes e pecas de colecao que apresentem um interesse arqueologico etnografico historico zoologico botanico mineralogico anatomico paleontologico ou numismatico colecoes e pecas de colecao que apresentem um inte";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 97052100;;0;"Objetos de arte de colecao e antiguidades colecoes e pecas de colecao que apresentem um interesse arqueologico etnografico historico zoologico botanico mineralogico anatomico paleontologico ou numismatico especimes humanos e suas partes";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 97052200;;0;"Objetos de arte de colecao e antiguidades colecoes e pecas de colecao que apresentem um interesse arqueologico etnografico historico zoologico botanico mineralogico anatomico paleontologico ou numismatico especies extintas ou ameacadas de extincao e suas ";13.45;17.29;21.00;0.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11054,9 +11054,9 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 101053100;;1;"Servicos de construcao de armazens, inclusive os especiais, silos, patios e vias de circulacao";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 101053900;;1;"Outros servicos de construcao de infraestrutura terrestre nos portos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 101061000;;1;"Servicos de construcao de barragens e adutoras";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-101062100;;1;"Servicos de construcao de sistemas de irrigacao  ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+101062100;;1;"Servicos de construcao de sistemas de irrigacaoï¿½ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 101062200;;1;"Servicos de construcao de sistemas de esgotos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-101062300;;1;"Servicos de construcao de sistemas de unidades para tratamento e purificacao de agua  ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+101062300;;1;"Servicos de construcao de sistemas de unidades para tratamento e purificacao de aguaï¿½ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 101069000;;1;"Outros servicos de construcao de sistemas hidricos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 101071100;;1;"Servicos de construcao de dutos de longo curso para o transporte de petroleo, seus derivados, e gas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 101071200;;1;"Servicos de construcao de dutos de longo curso para o transporte e escoamento de aguas e esgotos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11119,7 +11119,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 102050000;;1;"Servicos de agentes na comercializacao de energia eletrica";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 103011000;;1;"Fornecimento de refeicoes acompanhado de servicos de restaurante";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 103012100;;1;"Fornecimento de refeicoes pelo sistema de autoservico (self-service)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-103012200;;1;"Fornecimento de comidas do tipo “comidas rapidas” (fast-food)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+103012200;;1;"Fornecimento de comidas do tipo ï¿½comidas rapidasï¿½ (fast-food)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 103012900;;1;"Outros fornecimentos de refeicoes com servicos limitados de restaurante";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 103013100;;1;"Fornecimento de alimentacao, para eventos, sob contrato";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 103013200;;1;"Fornecimento de alimentacao, incluindo refeicoes para operadoras de transportes (comissaria ou catering)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11139,7 +11139,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 104011190;;1;"Servicos prestados por meio de outros veiculos rodoviarios";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 104011200;;1;"Servicos de transporte rodoviario de passageiros nas areas metropolitanas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 104011300;;1;"Servicos de transporte ferroviario urbano ou rural, inclusive nas areas metropolitanas, de passageiros";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-104011400;;1;"Servicos de transporte metroviario (metro) de passageiros";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+104011400;;1;"Servicos de transporte metroviario (metro)ï¿½de passageiros";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 104011500;;1;"Servicos de transporte integrado urbano ou rural, inclusive nas areas metropolitanas, de passageiros";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 104011600;;1;"Servicos de taxi";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 104011700;;1;"Servico de aluguel de carros com motorista";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11185,13 +11185,13 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 105011700;;1;"Servicos de transporte rodoviario de veiculos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105011810;;1;"Servicos de transporte rodoviario de combustiveis, lubrificantes e glp, inclusive apresentado em botijoes metalicos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105011820;;1;"Servicos de transporte rodoviario de produtos quimicos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105011890;;1;"Servicos de transporte rodoviario de  outros produtos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105011890;;1;"Servicos de transporte rodoviario deï¿½ outros produtos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105011900;;1;"Servicos de transporte rodoviario de outros tipos de carga";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012110;;1;"Servicos de transporte ferroviario de cargas solidas a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012120;;1;"Servicos de transporte ferroviario de cargas liquidas ou liquefeitas, a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012130;;1;"Servicos de transporte ferroviario de cargas gasosas a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012200;;1;"Servicos de transporte ferroviario de cargas vivas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105012310;;1;"Servicos de transporte ferroviario de carga solta, nao unitizada ";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105012310;;1;"Servicos de transporte ferroviario de carga solta, nao unitizadaï¿½";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012320;;1;"Servicos de transporte ferroviario de carga unitizada, exceto de em conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012330;;1;"Servicos de transporte ferroviario de bens e valores";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105012410;;1;"Servicos de transporte ferroviario de cargas em conteineres frigorificados climatizados";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11209,32 +11209,32 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 105021110;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de cargas solidas, a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021120;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de cargas liquidas ou liquefeitas, a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021130;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de cargas gasosas a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105021200;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso  de cargas vivas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105021200;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo cursoï¿½ de cargas vivas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021310;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de carga solta, nao unitizada";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105021320;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso  de carga unitizada, exceto de em conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105021410;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso  de cargas em conteineres frigorificados ou climatizados";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105021490;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso  de cargas em outros tipos de conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105021320;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo cursoï¿½ de carga unitizada, exceto de em conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105021410;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo cursoï¿½ de cargas em conteineres frigorificados ou climatizados";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105021490;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo cursoï¿½ de cargas em outros tipos de conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021500;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de mudancas domesticas, e de mobilia e outros objetos de escritorio";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021600;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de cargas especiais e de grande porte";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021700;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de veiculos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021810;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de combustiveis, lubrificantes e glp, inclusive apresentado em botijoes metalicos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021820;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de produtos quimicos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105021890;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de outros produtos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105021900;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo curso de outros tipos de carga";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105021900;;1;"Servicos de transporte aquaviario de navegacao de cabotagem e de longo cursoï¿½de outros tipos de carga";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022110;;1;"Servicos de transporte aquaviario por navegacao interior de cargas solidas, a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022120;;1;"Servicos de transporte aquaviario por navegacao interior de cargas liquidas ou liquefeitas, a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022130;;1;"Servicos de transporte aquaviario por navegacao interior de cargas gasosas a granel";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105022200;;1;"Servicos de transporte aquaviario por navegacao interior  de cargas vivas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105022200;;1;"Servicos de transporte aquaviario por navegacao interiorï¿½ de cargas vivas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022310;;1;"Servicos de transporte aquaviario por navegacao interior de carga solta, nao unitizada";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022320;;1;"Servicos de transporte aquaviario por navegacao interior de carga unitizada, exceto em conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022410;;1;"Servicos de transporte aquaviario por navegacao interior de cargas em conteineres frigorificados ou climatizados";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022490;;1;"Servicos de transporte aquaviario por navegacao interior de cargas em outros tipos de conteineres";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022500;;1;"Servicos de transporte aquaviario por navegacao interior de mudancas domesticas, e de mobilia e de outros objetos de escritorio";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105022600;;1;"Servicos de transporte aquaviario por navegacao interior  de cargas especiais e de grande porte";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105022600;;1;"Servicos de transporte aquaviario por navegacao interiorï¿½ de cargas especiais e de grande porte";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022700;;1;"Servicos de transporte aquaviario por navegacao interior de veiculos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022810;;1;"Servicos de transporte aquaviario por navegacao interior de combustiveis, lubrificantes e glp, inclusive apresentado em botijoes metalicos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022820;;1;"Servicos de transporte aquaviario por navegacao interior de produtos quimicos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-105022890;;1;"Servicos de transporte aquaviario por navegacao interior  de  outros produtos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+105022890;;1;"Servicos de transporte aquaviario por navegacao interiorï¿½ deï¿½ outros produtos perigosos";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105022900;;1;"Servicos de transporte aquaviario por navegacao interior de outros tipos de carga";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105023100;;1;"Servicos de navegacao de apoio portuario";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 105023200;;1;"Servicos de navegacao de apoio maritimo";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11314,7 +11314,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 106084000;;1;"Servicos de consolidacao ou desconsolidacao documental do transporte multimodal e intermodal de cargas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 106089000;;1;"Outros servicos de apoio ao transporte multimodal e intermodal de cargas";13.45;15.45;0.00;3.13;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 107010000;;1;"Servicos postais e de telegrama";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-107020000;;1;"Servicos de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+107020000;;1;"Servicos de coleta, remessa ou entrega de documentos (exceto cartas)ï¿½ou de pequenos objetos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 107030000;;1;"Servicos de remessas expressas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 108011100;;1;"Servicos de transmissao de eletricidade";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 108011200;;1;"Servicos de distribuicao de eletricidade";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11336,7 +11336,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 109014000;;1;"Servicos de cartao de credito";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 109021000;;1;"Servicos de valoracao de ativos";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 109022000;;1;"Servicos de subscricao de valores mobiliarios";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-109023000;;1;"Servicos de fusoes e aquisicoes ";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+109023000;;1;"Servicos de fusoes e aquisicoesï¿½";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 109024000;;1;"Servicos de capital de risco e financas corporativas";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 109029000;;1;"Outros servicos relacionados a bancos de investimentos";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 109031100;;1;"Servicos de seguros de vida";13.45;15.45;0.00;4.38;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11411,7 +11411,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 111031000;;1;"Licenciamento de direitos de obras literarias";13.45;15.45;0.00;3.50;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111032100;;1;"Licenciamento de direitos de producao, distribuicao ou comercializacao de programas de computador";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111032200;;1;"Licenciamento de direitos de uso de programas de computador";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-111032900;;1;"Licenciamento de outros direitos sobre programas de computador ";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+111032900;;1;"Licenciamento de outros direitos sobre programas de computadorï¿½";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111033100;;1;"Licenciamento de direitos de autor de obras cinematograficas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111033200;;1;"Licenciamento de direitos de autor de obras jornalisticas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111033300;;1;"Licenciamento de direitos de autor de obras publicitarias";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11424,7 +11424,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 111039100;;1;"Licenciamento de outros direitos de autor";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111039200;;1;"Licenciamento de outros direitos conexos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111041000;;1;"Cessao temporaria de direitos de obras literarias";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-111042000;;1;"Cessao temporaria de direitos sobre programas de computador ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+111042000;;1;"Cessao temporaria de direitos sobre programas de computadorï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111043100;;1;"Cessao temporaria de direitos de autor de obras cinematograficas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111043200;;1;"Cessao temporaria de direitos de autor de obras jornalisticas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 111043300;;1;"Cessao temporaria de direitos de autor de obras publicitarias";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11463,8 +11463,8 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 112012300;;1;"Servicos de pesquisa e desenvolvimento em nanotecnologia";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 112012400;;1;"Servicos de pesquisa e desenvolvimento em engenharia e tecnologia nucleares";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 112012500;;1;"Servicos de pesquisa e desenvolvimento em engenharia e tecnologia em microondas de potencia";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-112012900;;1;"Servicos de pesquisa e desenvolvimento em outros ramos da  engenharia e tecnologia";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-112013000;;1;"Servicos de pesquisa e desenvolvimento em  ciencias medica, odontologica e farmaceutica";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+112012900;;1;"Servicos de pesquisa e desenvolvimento em outros ramos daï¿½ engenharia e tecnologia";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+112013000;;1;"Servicos de pesquisa e desenvolvimento emï¿½ ciencias medica, odontologica e farmaceutica";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 112014000;;1;"Servicos de pesquisa e desenvolvimento em ciencias agrarias";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 112019100;;1;"Pesquisa tecnologica utilizando documentos de patentes";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 112019900;;1;"Outros servicos de pesquisa e desenvolvimento em ciencias naturais e engenharia";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11502,7 +11502,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 114013900;;1;"Outros servicos de comunicacao social";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114021100;;1;"Servicos de consultoria em arquitetura";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114021200;;1;"Servicos arquitetonicos para projetos de construcoes residenciais";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-114021300;;1;"Servicos arquitetonicos para projetos de construcoes nao residenciais ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+114021300;;1;"Servicos arquitetonicos para projetos de construcoes nao residenciaisï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114021400;;1;"Servicos arquitetonicos para restauracao de predios historicos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114021500;;1;"Servicos de arquitetura relativos ao acompanhamento e fiscalizacao da execucao de projetos arquitetonicos e urbanisticos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114022100;;1;"Servicos de planejamento urbano";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11521,7 +11521,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 114032440;;1;"Servicos de engenharia para projetos de energia eletrica";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114032490;;1;"Outros servicos de engenharia para projetos de energia";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114032500;;1;"Servicos de engenharia de projetos de radiodifusao e televisao";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-114032600;;1;"Servicos de engenharia de projetos de gerenciamento de residuos (perigosos e nao perigosos) ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+114032600;;1;"Servicos de engenharia de projetos de gerenciamento de residuos (perigosos e nao perigosos)ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114032700;;1;"Servicos de engenharia de projetos de distribuicao de agua e redes de esgotos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114032800;;1;"Servicos de engenharia de projetos de telecomunicacao";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114032910;;1;"Servicos de engenharia de projetos aeroespaciais";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11529,7 +11529,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 114032990;;1;"Outros servicos de engenharia de projetos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114033000;;1;"Servicos de gerenciamento de projetos de construcao";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114039000;;1;"Outros servicos de engenharia";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-114041100;;1;"Servicos de  consultoria geologica e geofisica";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+114041100;;1;"Servicos deï¿½ consultoria geologica e geofisica";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114041200;;1;"Servicos geofisicos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114041300;;1;"Servicos geoquimicos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 114041400;;1;"Servicos de informacoes para avaliacao e exploracao de recursos naturais";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11584,25 +11584,25 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 114099000;;1;"Outros servicos profissionais, tecnicos e gerenciais nao classificados nas subposicoes anteriores";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115011000;;1;"Servicos de consultoria em tecnologia da informacao (ti)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115012000;;1;"Servicos de seguranca em tecnologia da informacao (ti)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-115013000;;1;"Servicos de suporte em tecnologia da informacao (ti) ";13.45;15.45;0.00;3.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+115013000;;1;"Servicos de suporte em tecnologia da informacao (ti)ï¿½";13.45;15.45;0.00;3.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115021000;;1;"Servicos de projeto, desenvolvimento e instalacao de aplicativos e programas nao personalizados (nao customizados)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115022000;;1;"Servicos de projeto e desenvolvimento, adaptacao e instalacao de aplicativos personalizados (customizados)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115023000;;1;"Servicos de projeto e desenvolvimento de estruturas e conteudo de paginas eletronicas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115024000;;1;"Servicos de projeto e desenvolvimento de estruturas e conteudo de bancos de dados";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-115025000;;1;"Servicos de integracao de sistemas em tecnologia da informacao (ti) ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+115025000;;1;"Servicos de integracao de sistemas em tecnologia da informacao (ti)ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115029000;;1;"Outros servicos de projeto e desenvolvimento de aplicativos";13.45;15.45;0.00;4.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-115030000;;1;"Servicos de projeto e desenvolvimento de redes em tecnologia da informacao (ti) ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+115030000;;1;"Servicos de projeto e desenvolvimento de redes em tecnologia da informacao (ti)ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115040000;;1;"Servicos de projeto e desenvolvimento de topografias de circuitos integrados";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115050000;;1;"Servicos de projeto de circuitos integrados";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115061000;;1;"Servicos de hospedagem de sitios na rede mundial de computadores";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115062000;;1;"Servicos de hospedagem de aplicativos e programas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-115069000;;1;"Outros servicos de infraestrutura para hospedagem em tecnologia da informacao (ti)  ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+115069000;;1;"Outros servicos de infraestrutura para hospedagem em tecnologia da informacao (ti)ï¿½ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115071000;;1;"Servicos de gerenciamento de redes";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115072000;;1;"Servicos de gerenciamento de sistemas computacionais";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115079000;;1;"Outros servicos de gerenciamento de infraestrutura de tecnologia da informacao (ti)";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115080000;;1;"Servicos de manutencao de aplicativos e programas";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 115090000;;1;"Servicos auxiliares de processamento de dados";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-115900000;;1;"Outros servicos de tecnologia da informacao (ti)  ";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+115900000;;1;"Outros servicos de tecnologia da informacao (ti)ï¿½ï¿½";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117011110;;1;"Local";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117011120;;1;"Nacional";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117011130;;1;"Internacional";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11636,19 +11636,19 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 117014020;;1;"Servicos de exploracao de linha dedicada local, nacional ou internacional";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117015010;;1;"Servicos de distribuicao de pacotes basicos de programacao de televisao por assinatura";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117015020;;1;"Servicos de distribuicao de grades de programacao especiais de televisao por assinatura";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-117015030;;1;"Servicos de distribuicao de programacao atraves do sistema “pague e assista” (pay-per-view) de televisao por assinatura";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-117015090;;1;"Outros servicos de distribuicao de programacao de televisao por assinatura, inclusive os “pacotes combinados”";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+117015030;;1;"Servicos de distribuicao de programacao atraves do sistema ï¿½pague e assistaï¿½ (pay-per-view)ï¿½de televisao por assinatura";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+117015090;;1;"Outros servicos de distribuicao de programacao de televisao por assinatura, inclusive os ï¿½pacotes combinadosï¿½";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117019000;;1;"Outros servicos de telecomunicacoes";13.45;15.45;25.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-117021000;;1;"Servicos de fornecimento de infraestrutura de acesso (backbone) a rede mundial de computadores ";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+117021000;;1;"Servicos de fornecimento de infraestrutura de acesso (backbone)ï¿½a rede mundial de computadoresï¿½";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117022100;;1;"Servicos de acesso a rede mundial de computadores por conexao discada";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117022200;;1;"Servicos de acesso a rede mundial de computadores por banda larga";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117029000;;1;"Outros servicos na rede mundial de computadores";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117031000;;1;"Servicos de oferta de livros, jornais, periodicos, diretorios e listas de postagem de acesso imediato (on-line)";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117032000;;1;"Servicos de oferta de audio, inclusive de conteudo continuo (streaming), de acesso imediato (on-line)";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-117033000;;1;"Servicos de oferta de filmes e videos, inclusive de conteudo continuo (streaming), de acesso imediato (on-line) ";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+117033000;;1;"Servicos de oferta de filmes e videos, inclusive de conteudo continuo (streaming), de acesso imediato (on-line)ï¿½";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117034000;;1;"Servicos de oferta de conteudos que combinem duas ou mais midias de acesso imediato (on-line)";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117035000;;1;"Servicos de conteudo de portais de busca na rede mundial de computadores";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-117039000;;1;"Outros servicos de conteudos de acesso imediato (on-line) ";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+117039000;;1;"Outros servicos de conteudos de acesso imediato (on-line)ï¿½";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117041000;;1;"Servicos de agencias de noticias para jornais e periodicos";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117042000;;1;"Servicos de agencias de noticias em midia audiovisual";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 117049000;;1;"Outros servicos de agencias de noticias";13.45;15.45;0.00;5.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11719,7 +11719,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 120011000;;1;"Servicos de manutencao e reparacao de produtos metalicos";13.45;15.45;0.00;4.40;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 120012000;;1;"Servicos de manutencao e reparacao de computadores e seus perifericos e maquinario de escritorio";13.45;15.45;0.00;3.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 120013100;;1;"Servicos de manutencao e reparacao de veiculos automotores rodoviarios";13.45;15.45;0.00;4.40;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-120013200;;1;"Servicos de manutencao e reparacao de reboques (trailers), semirreboques (semi-trailers) e outros veiculos nao motorizados";13.45;15.45;0.00;4.40;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+120013200;;1;"Servicos de manutencao e reparacao de reboques (trailers), semirreboques (semi-trailers)ï¿½e outros veiculos nao motorizados";13.45;15.45;0.00;4.40;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 120013300;;1;"Servicos de manutencao e reparacao de veiculos militares";13.45;15.45;0.00;4.40;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 120013929;;1;"Outros servicos de manutencao e reparacao de embarcacoes";13.45;15.45;0.00;4.40;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 120015100;;1;"Servicos de manutencao e reparacao de aparelhos eletro-eletronicos domesticos";13.45;15.45;0.00;4.70;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
@@ -11800,7 +11800,7 @@ codigo;ex;tipo;descricao;nacionalfederal;importadosfederal;estadual;municipal;vi
 123051300;;1;"Servicos de apoio a a autonomia e a convivencia familiar e comunitaria";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 123051900;;1;"Outros servicos de protecao social basica";13.45;15.45;0.00;3.50;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 123052100;;1;"Servicos de acolhida para adultos e idosos em albergues, abrigos ou moradias provisorias";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
-123052200;;1;"Servicos de acolhida para criancas e adolescentes em republicas, casas de acolhida, abrigos ou com “familia acolhedora”";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
+123052200;;1;"Servicos de acolhida para criancas e adolescentes em republicas, casas de acolhida, abrigos ou com ï¿½familia acolhedoraï¿½";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 123052300;;1;"Servicos especiais de referencia para pessoas com necessidades especiais, em situacao de abandono, vitimas de negligencia, abusos e formas de violencia";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 123052400;;1;"Servicos de apoio a situacoes de risco circunstanciais em decorrencia de calamidades publicas e emergenciais";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
 123052500;;1;"Servicos especiais de referencia para adolescentes em cumprimento de medida socioeducativa de liberdade assistida e de prestacao de servicos a a comunidade";13.45;15.45;0.00;2.00;20/04/2023;31/05/2023;66E459;23.1.E;IBPT/empresometro.com.br
