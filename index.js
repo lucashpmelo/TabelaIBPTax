@@ -64,12 +64,12 @@ async function run() {
             ex: cur.ex,
             tipo: cur.tipo,
             descricao: cur.descricao,
-            nacionalfederal: parseFloat(cur.nacionalfederal),
-            importadosfederal: parseFloat(cur.importadosfederal),
+            nacional_federal: parseFloat(cur.nacionalfederal),
+            importados_federal: parseFloat(cur.importadosfederal),
             estadual: parseFloat(cur.estadual),
             municipal: parseFloat(cur.municipal),
-            vigenciainicio: cur.vigenciainicio.split("/").reverse().join("-"),
-            vigenciafim: cur.vigenciafim.split("/").reverse().join("-"),
+            vigencia_inicio: cur.vigenciainicio.split("/").reverse().join("-"),
+            vigencia_fim: cur.vigenciafim.split("/").reverse().join("-"),
             chave: cur.chave,
             versao: cur.versao,
             fonte: cur.fonte,
@@ -86,22 +86,21 @@ async function run() {
         { NCM: [], NBS: [], LC116: [] }
       );
 
-      fs.writeFileSync(
-        `./NCM/json/TabelaIBPTax${uf}.json`,
-        JSON.stringify(NCM)
-      );
+      fs.writeFileSync(`./NCM/TabelaIBPTax${uf}.json`, JSON.stringify(NCM));
 
-      fs.writeFileSync(
-        `./NBS/json/TabelaIBPTax${uf}.json`,
-        JSON.stringify(NBS)
-      );
+      fs.writeFileSync(`./NBS/TabelaIBPTax${uf}.json`, JSON.stringify(NBS));
 
-      fs.writeFileSync(
-        `./LC116/json/TabelaIBPTax${uf}.json`,
-        JSON.stringify(LC116)
-      );
+      fs.writeFileSync(`./LC116/TabelaIBPTax${uf}.json`, JSON.stringify(LC116));
 
-      return;
+      fs.writeFileSync(`./versao.json`, JSON.stringify({ versao: versao }));
+
+      return {
+        uf: uf,
+        NCM: NCM.length,
+        NBS: NBS.length,
+        LC116: LC116.length,
+        versao: versao,
+      };
     })
   );
 }
